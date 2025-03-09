@@ -21,11 +21,9 @@
 
 
 <div align="center">   
-  <!-- 贡献贪吃蛇图 -->
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/JSLiam94/JSLiam94/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/JSLiam94/JSLiam94/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-  </picture>
+
+![亮色](https://raw.githubusercontent.com/JSLiam94/JSLiam94/output/github-contribution-grid-snake.svg)
+
 </div>
 <div align="center">   
 
