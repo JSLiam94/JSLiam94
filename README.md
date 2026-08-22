@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22Hello%2C%20World%22;Happy+Coding!&center=true&size=27" />
   </div>
 
--🔭 I’m Jiang Shuo, a researcher passionate about ``Medical AI`` and ``Object Dection``.<br>
+-🔭 I’m Jiang Shuo, a researcher passionate about ``Medical AI``.<br>
 -💬 I’m currently study at Hangzhou Dianzi University.<br>
 -📫 Ask me about anything you want to know.<br>
 
